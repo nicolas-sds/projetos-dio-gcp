@@ -6,7 +6,7 @@ Resolução do desafio da DIO para organização de pastas, projetos e grupos de
 
 ## Diagrama
 
-![Diagrama da Arquitetura](diagramas/arquitetura.png)
+![Diagrama da Arquitetura](diagrama.png)
 
 ```text
 mercado-central
