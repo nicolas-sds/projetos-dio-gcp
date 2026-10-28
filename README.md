@@ -6,7 +6,7 @@ Repositório centralizador dos desafios e projetos práticos desenvolvidos duran
 | :--- | :--- |
 | Desenhando Sua Organização de Pastas e Projetos e Grupos de Acessos na Google Cloud Platform | [Projetos Folders](projetos-folders/) |
 | Definição de Orçamento de Billing na Google Cloud Platform | [Billing Alert](billing-alert/) |
-| | |
-| | |
+| Exportação do Billing na Google Cloud Platform | [Billing Export](billing-export/) |
+| | | 
 | | |
 | | |
