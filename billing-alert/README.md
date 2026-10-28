@@ -1,5 +1,4 @@
-# Definição de Orçamento de Billing na Google Cloud Platform
-
+# Definição de Orçamento de Billing  - GCP
 Resolução do desafio da DIO para criação de alertas e controle de orçamento no painel de faturamento do Google Cloud Platform.
 
 ---
